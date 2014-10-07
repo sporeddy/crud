@@ -21,3 +21,4 @@
     }
     
     require 'views/removeview.php';
+    ?>
