@@ -1,0 +1,9 @@
+USE `attic`;
+
+CREATE TABLE `contacts` (
+    `id` INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    `fname` VARCHAR(40) NOT NULL DEFAULT '',
+    `lname` VARCHAR(40) NOT NULL DEFAULT '',
+    `email` VARCHAR(64) NOT NULL DEFAULT '',
+    `phone` VARCHAR(20) NOT NULL DEFAULT ''
+);
