@@ -1,10 +1,10 @@
 <?php
 
 class db {
-    private static $userName = 'root';
-    private static $password = '';
-    private static $hostName = 'localhost';
-    private static $dbName = 'attic';
+    private static $userName = 'b72323648176ba';
+    private static $password = 'e777638e';
+    private static $hostName = 'us-cdbr-iron-east-01.cleardb.net';
+    private static $dbName = 'heroku_dc748be90326082';
     
     private static $con = null;
     
