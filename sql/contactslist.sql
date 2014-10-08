@@ -1,4 +1,4 @@
-USE `attic`;
+USE `heroku_dc748be90326082`;
 
 INSERT INTO `contacts` (`fname`, `lname`, `email`, `phone`) VALUES ('Surya', 'Alla', 'salla@unomaha.edu', '5155059797');
 INSERT INTO `contacts` (`fname`, `lname`, `email`, `phone`) VALUES ('SaiKumar', 'Reddy', 'sanneila@unomaha.edu', '2514636827');
