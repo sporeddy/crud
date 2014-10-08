@@ -1,4 +1,4 @@
-USE `attic`;
+USE `heroku_dc748be90326082`;
 
 CREATE TABLE `contacts` (
     `id` INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
